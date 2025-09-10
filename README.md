@@ -1,6 +1,4 @@
-This project was originally created by me as a tool to bypass organizational restrictions on locked-down school computers by enabling remote access control.  (Shoutout to my schools IT teacher for allowing me to make stuff like this instead of studying for my exams)
-
-Over time, it developed further as a side project, evolving into a low-level experimental malware framework.
+This project was originally created by me as a tool to bypass organizational restrictions on locked-down school computers by enabling remote access control.  (Shoutout to my schools IT teacher for allowing me to make stuff like this instead of studying for my exams) 
 
 # How it works:
 When executed, the program requests elevated privileges. This is the only required user interaction on the host machine.
